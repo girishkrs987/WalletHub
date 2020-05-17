@@ -29,6 +29,7 @@ public class Assigenment_1 extends BaseTest{
 	} 
 	
 	// 2. Post a status message "Hello World"
+	//2. Post a status message "Hello World"
 
 	
 	@Test(priority=3)
